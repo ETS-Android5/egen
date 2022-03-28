@@ -2,7 +2,7 @@
 A tool to specify energy-aware self-adaptive location-sensing strategies of smartphone applications. It contains a textual domain-specific modeling language and code generator that covers the domain-specific concepts of location-based applications.
 # eGEN Overview
 *e*GEN is developed using *Xtext* and *Xtend* as an Eclipse plugin. *e*GEN is targeted for *Domain Analyst* and *Developer*. As shown in Figure, the use of *e*GEN consists of seven steps. 
-![Image of eGEN Eco-system](https://github.com/Kowndinya2000/egen/blob/main/egen-eco-system.png)
+![Image of eGEN Eco-system](https://github.com/Kowndinya2000/egen/blob/master/egen-eco-system.png)
 *e*GEN is designed to give domain analysts options to assign values for *critical battery level, and sensing-interval* based on the application requirements. Further, the code generator of *e*GEN generates the Java code for developers that could be added to the existing Android repositories to make them battery-aware.
 
 # Language Description
