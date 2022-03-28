@@ -128,7 +128,7 @@ savings have been reported through adaptation policies defined without losing th
 accuracy when compared to Non-eGEN version.     
 ```
 ## Sensing interval impacted by the change in battery level
-![Sensing Interval Behavior based on the chosen Adaptation Policies](https://github.com/Kowndinya2000/egen/blob/main/chart.png)
+![Sensing Interval Behavior based on the chosen Adaptation Policies](https://github.com/Kowndinya2000/egen/blob/master/chart.png)
 
 # Subject Application Selection Criteria
 We have used [F-Droid](https://www.f-droid.org/) and [Google Play Store](https://play.google.com/store) to 
